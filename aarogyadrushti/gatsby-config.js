@@ -42,7 +42,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#88CEC9`,
         display: `browser`,
-        icon: `src/assets/AD-Symbol-Main.png`,
+        icon: `src/assets/AD-Symbol-Main-WhiteBG.png`,
       },
     },
   ],
